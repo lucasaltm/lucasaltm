@@ -1,16 +1,12 @@
-### Hi there 👋
+- [Analysis on deforestation and forest fires in Brazil](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb) [(Original Version PT/BR)](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation.ipynb)
+- [Fraud Detection](Machine_Learning/Fraud_Detection/Fraud_Detection.ipynb)
 
-<!--
-**lucasaltm/lucasaltm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Twitter Sentiment Analysis - Data Cleaning](https://github.com/lucasaltm/TSA/blob/main/TSA1_Data_Cleaning.ipynb)
+- [Twitter Sentiment Analysis - Training models for Vectorization and Classification with Word2Vec and scikit-learn](https://github.com/lucasaltm/TSA/blob/main/TSA2_Training_Models.ipynb)
+- [Twitter Sentiment Analysis - Classificating tweets using Twitter API and Tweepy library](https://github.com/lucasaltm/TSA/blob/main/TSA3_Classificating_Tweets.ipynb)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Face Detection with OpenCV using Haar-cascade classifier](https://github.com/lucasaltm/Computer_Vision/blob/main/Face_Detection.ipynb)
+- [Face Classification with OpenCV using Eigenfaces, Fisherfaces and LBPH algorithms](https://github.com/lucasaltm/Computer_Vision/blob/main/Face_Classification.ipynb)
+- [Facial Landmark Detection with OpenCV and DLib](https://github.com/lucasaltm/Computer_Vision/blob/main/Facial_landmark_detection.ipynb)
+- [Extracting email addresses from images using Tesseract OCR, OpenCV and RegEx]()
+- [Hand Tracking with Mediapipe, OpenCV and WebCam](https://github.com/lucasaltm/Computer_Vision/blob/main/Hand_Tracking_Mediapipe.ipynb)
