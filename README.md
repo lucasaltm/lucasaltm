@@ -1,5 +1,5 @@
 - [Analysis on deforestation and forest fires in Brazil](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb) [(Original Version PT/BR)](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation.ipynb)
-- [Fraud Detection](Machine_Learning/Fraud_Detection/Fraud_Detection.ipynb)
+- [Fraud Detection](https://github.com/lucasaltm/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
 
 - [Twitter Sentiment Analysis - Data Cleaning](https://github.com/lucasaltm/TSA/blob/main/TSA1_Data_Cleaning.ipynb)
 - [Twitter Sentiment Analysis - Training models for Vectorization and Classification with Word2Vec and scikit-learn](https://github.com/lucasaltm/TSA/blob/main/TSA2_Training_Models.ipynb)
