@@ -1,4 +1,4 @@
-Hello! Welcome to my GitHub profile! 👋
+# Hello! Welcome to my GitHub profile! 👋
 
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
 
