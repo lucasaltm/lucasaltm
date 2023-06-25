@@ -3,12 +3,12 @@
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
 
 # 🚀 Skills</br>
-• Programming Languages: Python, R, SQL</br>
-• Data Science Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn</br>
-• Big Data: Spark, Hadoop</br>
-• Machine Learning and Deep Learning</br>
-• Data Visualization</br>
-• Statistical Analysis</br>
+- Programming Languages: Python, R, SQL</br>
+- Data Science Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn</br>
+- Big Data: Spark, Hadoop</br>
+- Machine Learning and Deep Learning</br>
+- Data Visualization</br>
+- Statistical Analysis</br>
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
