@@ -1,3 +1,9 @@
+ <p align="center">
+  <a href="#">
+    <img img align="center" alt="GIF" src="ds.png" alt="Welcome!" style="width:150px;height:150px;">
+  </a>
+</p>
+
 # Hello! Welcome to my GitHub profile! 👋
 
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
@@ -49,10 +55,3 @@ Thank you for visiting my profile, I hope you like my projects and I am looking 
 
 </br>
 </br>
-
- <p align="center">
-  <a href="#">
-    <img img align="center" alt="GIF" src="ds.png" alt="Welcome!" style="width:150px;height:150px;">
-  </a>
-</p>
-
