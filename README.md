@@ -4,7 +4,7 @@ In this profile, you will find a variety of projects that I have worked on, rang
 
 <p align="center">
   <a href="#">
-    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:250px;height:250px;">
+    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:350px;height:350px;">
   </a>
 </p>
 
