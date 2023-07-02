@@ -16,7 +16,7 @@ In this profile, you will find a variety of projects that I have worked on, rang
 - Data Visualization</br>
 - Statistical Analysis</br>
 
-</br>
+</br></br>
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
