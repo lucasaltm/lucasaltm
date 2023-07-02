@@ -43,7 +43,7 @@ Below, you'll find a selection of some of the projects I've worked on. Each of t
 I am open to collaborations, so feel free to contact me if you are interested in working together on a project or if you have any suggestions for the existing projects.
 
 # 📬 Contact
-If you'd like to connect or get in touch with me, feel free to visit my LinkedIn profile and send a connection request. I'm always open to meeting new people in the Data Science field and expanding my network. Click here to go to my [LinkedIn](https://www.linkedin.com/in/lucas-cristiano-altmann/).</br>
+If you'd like to connect or get in touch with me, feel free to visit my LinkedIn profile and send a connection request. I'm always open to meeting new people and expanding my network. Click here to go to my [LinkedIn](https://www.linkedin.com/in/lucas-cristiano-altmann/).</br>
 
 Thank you for visiting my profile, I hope you like my projects and I am looking forward to collaborating with the community!
 
