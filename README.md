@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="#">
+    <img src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:500px;height:500px;">
+  </a>
+</p>
+
+
+
 # Hello! Welcome to my GitHub profile! 👋
 
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
