@@ -38,6 +38,12 @@ Below, you'll find a selection of some of the projects I've worked on. Each of t
 - [Facial Landmark Detection with OpenCV and DLib](https://github.com/lucasaltm/Computer_Vision/blob/main/Facial_landmark_detection.ipynb)
 - [Hand Tracking with Mediapipe, OpenCV and WebCam](https://github.com/lucasaltm/Computer_Vision/blob/main/Hand_Tracking_Mediapipe.ipynb)
 
+<p align="center">
+  <a href="#">
+    <img img align="right" alt="GIF" src="ds.png" alt="Welcome!" style="width:250px;height:250px;">
+  </a>
+</p>
+
 # 🤝 Contributions
 I am open to collaborations, so feel free to contact me if you are interested in working together on a project or if you have any suggestions for the existing projects.
 
