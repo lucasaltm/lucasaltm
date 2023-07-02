@@ -39,10 +39,12 @@ If you'd like to connect or get in touch with me, feel free to visit my LinkedIn
 
 Thank you for visiting my profile, I hope you like my projects and I am looking forward to collaborating with the community!
 
-</br></br>
-
+</br>
+</br>
+</br>
+ 
 <p align="center">
   <a href="#">
-    <img src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:250px;height:250px;">
+    <img src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:350px;height:350px;">
   </a>
 </p>
