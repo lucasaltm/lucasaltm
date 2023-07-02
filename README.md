@@ -26,7 +26,7 @@ Below, you'll find a selection of some of the projects I've worked on. Each of t
 - [Analysis on deforestation and forest fires in Brazil](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb) [(Original Version PT/BR)](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation.ipynb)
 
 ### Classification and Categorization
-- [Fraud Detection](https://github.com/lucasaltm/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
+- [Bank Fraud Detection with Imbalanced Data: Applying Oversampling and Hyperparameter Optimization](https://github.com/lucasaltm/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
 
 ### Text Analysis and Natural Language Processing (NLP)
 - [Twitter Sentiment Analysis - Data Cleaning](https://github.com/lucasaltm/Twitter_Sentiment_Analysis/blob/main/TSA1_Data_Cleaning.ipynb)
