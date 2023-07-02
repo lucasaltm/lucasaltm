@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:500px;height:500px;">
-  </a>
-</p>
-
-
-
 # Hello! Welcome to my GitHub profile! 👋
 
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
@@ -47,3 +39,10 @@ If you'd like to connect or get in touch with me, feel free to visit my LinkedIn
 
 Thank you for visiting my profile, I hope you like my projects and I am looking forward to collaborating with the community!
 
+</br></br>
+
+<p align="center">
+  <a href="#">
+    <img src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:250px;height:250px;">
+  </a>
+</p>
