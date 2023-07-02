@@ -4,7 +4,7 @@ In this profile, you will find a variety of projects that I have worked on, rang
 
 <p align="center">
   <a href="#">
-    <img img align="right" alt="GIF" src="ds.png" alt="Welcome!" style="width:250px;height:250px;">
+    <img img align="right" alt="GIF" src="ds2.png" alt="Welcome!" style="width:250px;height:250px;">
   </a>
 </p>
 
