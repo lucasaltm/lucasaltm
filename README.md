@@ -3,7 +3,7 @@
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
 <p align="center">
   <a href="#">
-    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:350px;height:350px;">
+    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:250px;height:250px;">
   </a>
 </p>
 
@@ -16,7 +16,6 @@ In this profile, you will find a variety of projects that I have worked on, rang
 - Data Visualization</br>
 - Statistical Analysis</br>
 
-</br></br>
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
