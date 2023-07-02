@@ -1,14 +1,22 @@
 # Hello! Welcome to my GitHub profile! 👋
 
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
+<p align="center">
+  <a href="#">
+    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:350px;height:350px;">
+  </a>
+</p>
 
-# 🚀 Skills</br>
+
+# 🚀 Skills
 - Programming Languages: Python, R, SQL</br>
 - Data Science Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, OpenCV, NLTK</br>
 - Big Data: Spark, Hadoop</br>
 - Machine Learning and Deep Learning</br>
 - Data Visualization</br>
 - Statistical Analysis</br>
+
+</br>
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
@@ -43,8 +51,4 @@ Thank you for visiting my profile, I hope you like my projects and I am looking 
 </br>
 </br>
  
-<p align="center">
-  <a href="#">
-    <img src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:350px;height:350px;">
-  </a>
-</p>
+
