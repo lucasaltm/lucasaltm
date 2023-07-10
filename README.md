@@ -25,7 +25,7 @@ Below, you'll find a selection of some of the projects I've worked on. Each of t
 ### Exploratory Data Analysis
 - [Analysis on deforestation and forest fires in Brazil](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb)
 
-### Classification and Categorization
+### Predictive Modeling
 - [Bank Fraud Detection with Imbalanced Data: Applying Oversampling and Hyperparameter Optimization](https://github.com/lucasaltm/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
 
 ### Text Analysis and Natural Language Processing (NLP)
