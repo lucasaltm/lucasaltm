@@ -20,7 +20,6 @@ In this profile, you will find a variety of projects that I have worked on, rang
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
-Below, you'll find a selection of some of the projects I've worked on. Each of these showcases different Data Science skills and techniques:
 
 ### Exploratory Data Analysis
 - [Analysis on deforestation and forest fires in Brazil](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb)
