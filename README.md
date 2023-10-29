@@ -1,4 +1,4 @@
-<h1 style="font-size: 2em;">Hello! Welcome to my GitHub profile! 👋</h1>
+<h1 style="font-size: 2em;">&#8288;Hello! Welcome to my GitHub profile! 👋</h1>
 
 <p>In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.</p>
 
