@@ -11,7 +11,7 @@ In this profile, you will find a variety of projects that I have worked on, rang
 
 # 🚀 Skills
 - Programming Languages: Python, SQL</br>
-- Data Science Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-learn, PyTorch, TensorFlow, OpenCV, NLTK</br>
+- Data Science Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Streamlit, Scikit-learn, PyTorch, TensorFlow, MLflow, OpenCV, NLTK</br>
 - Machine Learning and Deep Learning</br>
 - Data Visualization</br>
 - Statistical Analysis</br>
