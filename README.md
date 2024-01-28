@@ -12,7 +12,6 @@ In this profile, you will find a variety of projects that I have worked on, rang
 # 🚀 Skills
 - Programming Languages: Python, SQL</br>
 - Data Science Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, OpenCV, NLTK</br>
-- Big Data: Spark, Hadoop</br>
 - Machine Learning and Deep Learning</br>
 - Data Visualization</br>
 - Statistical Analysis</br>
@@ -21,7 +20,7 @@ In this profile, you will find a variety of projects that I have worked on, rang
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis, Cleaning and Visualization
 - [Analysis on deforestation and forest fires in Brazil](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb)
 
 ### Predictive Modeling
