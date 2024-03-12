@@ -2,20 +2,19 @@
 
 In this profile, you will find a variety of projects that I have worked on, ranging from my academic training to personal projects, all reflecting my ongoing journey of learning and skill development.
 
+# 🚀 Skills
+
 <p align="center">
     <a href="#">
-    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:304px;height:277px;">
+    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:254px;height:227px;">
     </a>
 </p>
 
-
-# 🚀 Skills
-- Programming Languages: Python, SQL</br>
+- Programming Languages: Python, SQL, Java</br>
 - Data Science Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Streamlit, Scikit-learn, PyTorch, TensorFlow, MLflow, OpenCV, NLTK</br>
 - Machine Learning and Deep Learning</br>
 - Data Visualization</br>
 - Statistical Analysis</br>
-
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
