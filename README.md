@@ -6,7 +6,7 @@ In this profile, you will find a variety of projects that I have worked on, rang
 
 <p align="center">
     <a href="#">
-    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:254px;height:227px;">
+    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:234px;height:207px;">
     </a>
 </p>
 
@@ -15,7 +15,6 @@ In this profile, you will find a variety of projects that I have worked on, rang
 - Machine Learning and Deep Learning</br>
 - Data Visualization</br>
 - Statistical Analysis</br>
-</br>
 
 # 🛠 Projects
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
