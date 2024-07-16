@@ -20,10 +20,10 @@ In this profile, you will find a variety of projects that I have worked on, rang
 Each repository on this profile is a project I have worked on, and they showcase the skills I have acquired. Feel free to explore them, take a look at the code, and read through the reports. </br>
 
 ### Exploratory Data Analysis, Cleaning and Visualization
-- [Real-Time Amazon Deforestation Monitor: Analyzing and visualizing deforestation data in the Legal Amazon using DETER data and Streamlit.](https://github.com/lucasaltm/Amazon_Rainforest_Degradation/blob/main/Amazon_Rainforest_Degradation_EN.ipynb)
+- [Real-Time Amazon Deforestation Monitor: Analyzing and visualizing deforestation data in the Legal Amazon using DETER data and Streamlit.](https://github.com/lucasaltm/INPE_Data_Analysis/tree/main)
 
 ### Predictive Modeling
-- [Bank Fraud Detection with Imbalanced Data: Applying Oversampling and Hyperparameter Optimization](https://github.com/lucasaltm/INPE_Data_Analysis/tree/main)
+- [Bank Fraud Detection with Imbalanced Data: Applying Oversampling and Hyperparameter Optimization](https://github.com/lucasaltm/Fraud_Detection/blob/main/Fraud_Detection.ipynb)
 
 ### Text Analysis and Natural Language Processing (NLP)
 - [Sentiment Analysis From Scratch: A Deep Dive into Twitter Data](https://github.com/lucasaltm/Twitter_Sentiment_Analysis)
